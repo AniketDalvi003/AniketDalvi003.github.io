@@ -82,7 +82,7 @@ body {
 }
 
 .pricing-header {
-  color: #888;
+  color: rgb(17, 13, 13);
   font-weight: 600;
   letter-spacing: 1px;
   position: relative;
@@ -91,7 +91,7 @@ body {
 
 .pricing-features {
   margin: 50px 0 25px;
-  color: #016ff9;
+  color: #737475;
 }
 
 .pricing-features-item {
@@ -100,7 +100,7 @@ body {
   font-size: 12px;
   line-height: 1.5;
   padding: 15px 0;
-  border-top: 1px solid #e1f1ff;
+  /* border-top: 1px solid #e1f1ff; */
 }
 
 .pricing-features-item:last-child{
@@ -137,14 +137,15 @@ body {
 }
 
 .container{
-  background-color:black;
+  background-color:rgb(110, 109, 110);
   height: 75px;
   width: 100%;
   position: absolute;
   top: 0px;
   text-align: center;
+  font-family: 'Brush Script MT', cursive;
   font-size:30px;
-  color:white;
+  color: white;
   font-weight: 10px;
 }
 
